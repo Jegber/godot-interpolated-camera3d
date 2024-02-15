@@ -3,18 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://e5mv3ytuj0u6"
-path="res://.godot/imported/interpolated_camera_3d.svg-a9f084fb38558ada3c63379b69457ab3.ctex"
+path="res://.godot/imported/interpolated_camera_3d.svg-8e0f157410e520210d033a94b17f8702.ctex"
 metadata={
-"editor_dark_theme": true,
-"editor_scale": 1.0,
 "has_editor_variant": true,
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/interpolated_camera_3d/interpolated_camera_3d.svg"
-dest_files=["res://.godot/imported/interpolated_camera_3d.svg-a9f084fb38558ada3c63379b69457ab3.ctex"]
+source_file="res://addons/godot-interpolated-camera3d/addons/interpolated_camera_3d/interpolated_camera_3d.svg"
+dest_files=["res://.godot/imported/interpolated_camera_3d.svg-8e0f157410e520210d033a94b17f8702.ctex"]
 
 [params]
 
